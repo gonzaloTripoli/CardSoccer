@@ -1,6 +1,4 @@
 CARDSOCCER
+Card game developed with javascript vanilla. 
 
-Card game, first proyect in JS
 
-
-to do
