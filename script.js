@@ -1,7 +1,7 @@
 //CARDSCCER
-class App { //maneja todas las clases.
+class App { 
     constructor() {
-        this.listUser = [] //usuario principal se maneja siempre con el indice 0
+        this.listUser = [] 
     }
     compararPlayers(enemy, user, marcador) {
         let puntUser = this.listUser[0].player(user)
@@ -336,8 +336,6 @@ class Player {
         return a;
     }
 }
-//perdon por la cantidad de variables las cuales no son descriptivas de si mismas, esta entrega me agarro entre parciales y finales y sinceramente no lee pude dedicar el tiempo 
-//el cual hubiese querido.
 //____________________________________________________________________________________________________________________________________________________________________________________
 //Main
 let lista
