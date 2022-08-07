@@ -456,13 +456,3 @@ function playGame(playerName) { // ==> va a contar con la logica y el renderizad
         }, 3000)
     }
 }
-//Observaciones:
-//Como primero , muchas gracias por la buena onda que le puso al curso, tanto usted como el tutor que me toco geniales en todo sentido.
-//Ahora hablando del proyecto, me di cuenta tarde que la gracia de javascript no esta justamente en hacer tan rigido la parte de poo, y creo que 
-//abuse de ella. En el tramo final del proyecto empeze a utilizar el dinamismo y funcionalida del lenguaje.
-//Igualmente, creo que trabajar estructurado es mejor, no creo que me case con js , pero si es siempre bueno ampliar conocimientos.
-//Me queda como enseñanza(ademas de todo lo aprendido) que prefiero trabajar en lenguajes tipados.
-//Hablando del programa, funciona correctamente (Almenos por las pruebas realizadas).Esteticamente es feo, pero sinceramente no me enfoque en eso.
-//El juego puede ser escalable de mil formas no adentre mas en la logica y funcionalidades del mismo ya que me llevaria mucho tiempo el cual en este momento no tengo.
-//Reitero el pedido de disculpas por la cantidad de variables no descriptivas. 
-//Saludos!
